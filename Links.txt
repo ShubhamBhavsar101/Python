@@ -1,3 +1,6 @@
 String Methods - 
     https://www.w3schools.com/python/python_strings_methods.asp
 
+List Methods -
+    https://www.w3schools.com/python/python_lists_methods.asp
+
