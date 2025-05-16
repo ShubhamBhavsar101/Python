@@ -18,3 +18,5 @@ Step 3: Now install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
+## Using Pyenv to change python versions
+Reference - [Pyenv Github Repo](https://github.com/pyenv/pyenv)
