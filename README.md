@@ -20,3 +20,19 @@ pip install -r requirements.txt
 ```
 ## Using Pyenv to change python versions
 Reference - [Pyenv Github Repo](https://github.com/pyenv/pyenv)
+```bash
+pyenv versions
+```
+Install Python Version
+```bash
+pyenv install 3.12
+```
+Activate Python globally
+```bash
+pyenv global 3.12
+python --version
+```
+Activate Python for a local folder
+```bash
+pyenv local 3.10
+```
